@@ -1,0 +1,10 @@
+1. The first thing is to install this all packages in python
+	a.opencv-python
+	b.pillow
+	c.time
+2. also install a lriun Webcam on your android mobile.
+3. also install the given exe file on your computer to connect the webcam with your mobile
+3. run the given py program in python idle.
+
+
+Disclaimer: This Program is not used for professional use.

@@ -1,0 +1,15 @@
+$git checkout :file back
+$git checkout -f:all file back
+$git commit -m "title":for all file commit
+$git diff :show changes
+git add -a :all file save
+git add -a :all file save
+touch :for create file
+git rm --cached:  for not commiting file
+git rm (file name):totaley remove file
+make one .gitignore file and put all unnessary file name
+git branch (name):create branch
+git branch:show all branch
+git checkout (branch name):switch to branch
+git merge (branch name):for merge
+  

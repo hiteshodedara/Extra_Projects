@@ -1,0 +1,9 @@
+1. the first thing you need to install python on your computer.
+2. open cmd and install python this packages
+	a.pyautogui
+	b.opencv-python
+	c.mediapipe
+3. create py file and type all the program and run it.
+
+
+Disclaimer: its works in the python 3.9 version and 3.7 version.
